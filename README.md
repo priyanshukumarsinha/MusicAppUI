@@ -1,0 +1,2 @@
+# MusicAppUI
+Made with NextJS
