@@ -10,7 +10,7 @@ const page = () => {
       </h2>
       <p
       className="text-white text-center text-lg max-w-md mx-auto"
-      >Get in touch with us, we'd love to hear from you.</p>
+      >Get in touch with us, we&apos;d love to hear from you.</p>
       <div>
         <form className="flex flex-col w-full gap-5 justify-center items-center my-10">
           <div className="w-full px-60 ">
