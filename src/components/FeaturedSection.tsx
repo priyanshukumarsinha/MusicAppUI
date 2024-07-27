@@ -36,7 +36,9 @@ const FeaturedSection = () => {
             >
                 {
                     featuredCourses && featuredCourses.map((course: Course) => (
-                        <BackgroundGradient>
+                        <BackgroundGradient
+                        key={course.id}
+                        >
                             <div
                             key={course.id}
                             className='flex flex-col rounded-[22px] bg-white dark:bg-zinc-900 overflow-hidden h-full'
