@@ -1,0 +1,64 @@
+{
+    "courses" : [
+        {
+            "id": 1,
+            "title": "Music Theory",
+            "description": "Learn the basics of music theory",
+            "instructor": "John Doe",
+            "image": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "price": 99.99,
+            "slug": "music-theory",
+            "isFeatured": true
+        },
+        {
+            "id": 2,
+            "title": "Guitar Lessons",
+            "description": "Learn how to play the guitar",
+            "instructor": "Jane Doe",
+            "image": "https://plus.unsplash.com/premium_photo-1682265683254-3b08ea75ce40?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3Dg",
+            "price": 149.99,
+            "slug": "guitar-lessons",
+            "isFeatured": true
+        },
+        {
+            "id": 3,
+            "title": "Piano Lessons",
+            "description": "Learn how to play the piano",
+            "instructor": "John Doe",
+            "image": "https://images.unsplash.com/photo-1479118013749-9f79d55a28d0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "price": 149.99,
+            "slug": "piano-lessons",
+            "isFeatured": false
+        },
+        {
+            "id": 4,
+            "title": "Drum Lessons",
+            "description": "Learn how to play the drums",
+            "instructor": "Jane Doe",
+            "image": "https://plus.unsplash.com/premium_photo-1681503973682-29cec46571b7?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "price": 149.99,
+            "slug": "drum-lessons",
+            "isFeatured": true
+        },
+        {
+            "id": 5,
+            "title": "Singing Lessons",
+            "description": "Learn how to sing",
+            "instructor": "John Doe",
+            "image": "https://images.unsplash.com/photo-1543510616-a4025b9c1434?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "price": 149.99,
+            "slug": "singing-lessons",
+            "isFeatured": true
+        },
+        {
+            "id": 6,
+            "title": "Music Production",
+            "description": "Learn how to produce music",
+            "instructor": "Jane Doe",
+            "image": "https://plus.unsplash.com/premium_photo-1682124293900-54bea8ca7e9f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "price": 199.99,
+            "slug": "music-production",
+            "isFeatured": false
+        }
+    ]
+}
